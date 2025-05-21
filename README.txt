@@ -1,0 +1,3 @@
+The thing has bugs, and a lot of them...
+I just didn't have enough time to polish everything up, and for that I'm sorry.
+Didn't know that the deadline is in 2 days.
